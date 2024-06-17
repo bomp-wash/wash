@@ -8,6 +8,7 @@ $memberDiscount = 1;
 $memberPeriod = '';
 $isMember = false;
 
+ 
 // 获取当前日期
 $currentDate = date('Y-m-d');
 
